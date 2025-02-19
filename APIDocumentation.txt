@@ -1,0 +1,2 @@
+Twitch API Documentation: https://dev.twitch.tv/docs/api/
+TikTok API Documentation: https://business-api.tiktok.com/portal/docs
