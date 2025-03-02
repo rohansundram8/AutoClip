@@ -4,6 +4,8 @@ import cv2
 import urllib.request
 import os
 
+# RKS Twitch Clip Editor
+
 # Collect Twitch clip links from user input.
 # Users can continuously enter links until they type "end", which stops input collection.
 ClipLinks = []
