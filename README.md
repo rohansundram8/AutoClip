@@ -1,4 +1,4 @@
-# Twitch_Clip_TikTok_Uploader
+# AutoClip
 
 This project is a Python-based system designed to automate the retrieval, processing, and uploading of Twitch clips. The script downloads Twitch clips using API requests, applies video transformations, and uploads the final processed video to TikTok. The system handles user authentication, video processing, and automated API interactions.
 
